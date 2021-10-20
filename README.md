@@ -10,3 +10,4 @@ Accompany project to the seminar 'empirical methods for speech communication'
 * [Exercive 4](exercises/Exercise_1.ipynb) compute dependent t-tests
 * [Exercive 5](exercises/Exercise_1.ipynb) compute regression and correlation
 * [Exercive 6](exercises/Exercise_1.ipynb) compute ANOVA
+ 
